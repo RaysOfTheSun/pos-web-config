@@ -1,7 +1,6 @@
-pos:
-  auth:
-    server:
-      url: http://host.docker.internal:8080
+pos-auth:
+  server:
+    url: http://host.docker.internal:8080
 spring:
   data:
     mongodb:
