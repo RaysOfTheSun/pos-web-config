@@ -1,6 +1,6 @@
 pos-auth:
   server:
-    url: http://pos-keycloak:8080/auth
+    url: http://pos-keycloak:8080
 spring:
   data:
     mongodb:
