@@ -1,6 +1,6 @@
 pos-auth:
   server:
-    url: http://localhost:8080
+    url: https://host.docker.internal:8080
 spring:
   data:
     mongodb:
